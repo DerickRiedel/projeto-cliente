@@ -1,0 +1,12 @@
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\bin\Debug\netcoreapp2.1\Aula2.deps.json
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\bin\Debug\netcoreapp2.1\Aula2.runtimeconfig.json
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\bin\Debug\netcoreapp2.1\Aula2.runtimeconfig.dev.json
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\bin\Debug\netcoreapp2.1\Aula2.dll
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\bin\Debug\netcoreapp2.1\Aula2.pdb
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\obj\Debug\netcoreapp2.1\Aula2.csprojAssemblyReference.cache
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\obj\Debug\netcoreapp2.1\Aula2.AssemblyInfoInputs.cache
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\obj\Debug\netcoreapp2.1\Aula2.AssemblyInfo.cs
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\obj\Debug\netcoreapp2.1\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\obj\Debug\netcoreapp2.1\Aula2.dll
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\obj\Debug\netcoreapp2.1\Aula2.pdb
+C:\Users\Derek Riedel\Documents\CsProjects\Aula2\obj\Debug\netcoreapp2.1\Aula2.genruntimeconfig.cache

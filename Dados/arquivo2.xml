@@ -1,0 +1,14 @@
+<dados>
+  <cliente>
+    <cpf>cpf</cpf>
+    <nome>nome</nome>
+    <idade>18</idade>
+    <sexo>Masculino</sexo>
+  </cliente>
+  <cliente>
+    <cpf>cpf2</cpf>
+    <nome>nome2</nome>
+    <idade>20</idade>
+    <sexo>Feminino</sexo>
+  </cliente>
+</dados>
